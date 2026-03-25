@@ -1,0 +1,8 @@
+.env
+remindme.txt
+.venv/
+output/
+src/test.py
+docs/
+.streamlit/
+__pycache__/
