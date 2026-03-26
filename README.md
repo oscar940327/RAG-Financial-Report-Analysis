@@ -1,7 +1,7 @@
-# RAiG Financial Report Analysis 
+# RAG Financial Report Analysis 
 **企業財報與供應鏈風險問答系統 (Two-Stage RAG)**
 
-這是一個基於大型語言模型 (LLM) 與檢索增強生成 (RAG) 技術建置的財務問答系統。本專案專注於解析大型企業（如 Tesla、Palantir）的 10-K 年度財務報告，透過導入 **Cross-Encoder 重排序 (Reranking)** 與 **獨立問題生成 (Query Rewriting)** 機制，解決傳統向量檢索在處理密集財務數據與跨語系提問時的精準度瓶頸。
+這是一個基於大型語言模型 (LLM) 與檢索增強生成 (RAG) 技術建置的財務問答系統。本專案專注於解析大型企業（如 Tesla、Palantir）的財務報告，透過導入 **Cross-Encoder 重排序 (Reranking)** 與 **獨立問題生成 (Query Rewriting)** 機制，解決傳統向量檢索在處理密集財務數據與跨語系提問時的精準度瓶頸。
 
 ## 核心技術特徵 (Key Features)
 
